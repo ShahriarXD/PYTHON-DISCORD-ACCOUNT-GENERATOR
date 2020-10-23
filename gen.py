@@ -19,7 +19,7 @@ bot = commands.Bot(command_prefix=prefix)
 bot.remove_command('help')
 
 #Calls
-bot_developer = 'cracked.to/Kojixus'
+bot_developer = 'Shahriar'
 
 #Cooldown command
 _cd = commands.CooldownMapping.from_cooldown(1.0, 120.0, commands.BucketType.member)
